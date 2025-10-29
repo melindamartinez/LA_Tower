@@ -1,0 +1,619 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>US Geological Survey, Wetland and Aquatic Research Center, Baton Rouge</origin>
+        <origin> Coastal Protection and Restoration Authority (CPRA)</origin>
+        <title>crms6298</title>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The crms6298 feature class represents the center point of the 1 km CRMS site location.</abstract>
+      <purpose>The Coastwide Reference Monitoring System (CRMS) was designed to monitor the effectiveness of restoration actions at multiple spatial scales from individual projects to the influence of projects on the entire coastal landscape. The CRMS design includes a suite of sites encompassing a range of ecological conditions in swamp habitats and fresh, intermediate, brackish, and salt marshes. Approximately 390 sites are monitored using standardized data collection techniques and fixed sampling schedules. CRMS sites are located within or outside of CWPPRA restoration and protection projects. The CRMS reference network approach allows for comparisons of changing conditions at CRMS sites within and outside of restoration and protection projects. </purpose>
+    </descript>
+    <status>
+      <progress>In work</progress>
+      <update>Continually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-93.892423</westbc>
+        <eastbc>-88.958169</eastbc>
+        <northbc>30.539610</northbc>
+        <southbc>28.972116</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Coastwide Reference Monitoring System</themekey>
+        <themekey>Hydrologic sampling</themekey>
+        <themekey>vegetative sampling</themekey>
+        <themekey>CRMS</themekey>
+        <themekey>wetlands</themekey>
+        <themekey>Louisiana</themekey>
+        <themekey>coastal restoration</themekey>
+        <themekey>Wetlands</themekey>
+        <themekey>probabilistic sampling</themekey>
+        <themekey>Monitoring data</themekey>
+        <themekey>Coastal Louisiana</themekey>
+      </theme>
+    </keywords>
+    <accconst>It is strongly recommended that this data is directly acquired from the distributor described above and or from another USGS Biological Resources Division server and not indirectly through other sources which may have changed the data in some way. The distributor makes no claims as to the data's suitability for other purposes.</accconst>
+    <useconst>Acknowledgement of the Wetland and Aquatic Research Center as a data source would be appreciated in products developed from these data, and such acknowledgement as is standard for citation and legal practices for data source is expected by users of this data. Sharing new data layers developed directly from these data would also be appreciated by WARC staff. Users should be aware that comparison with other data sets from the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. The distributor shall not be liable for improper or incorrect use of the data, based on the description of appropriate/inappropriate uses described in this metadata document. These data are not legal documents and are not to be used as such.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>US Geological Survey, Wetland and Aquatic Research Center</cntorg>
+          <cntper>Brad Griffin</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>150 Terrace Avenue</address>
+          <city>Baton Rouge</city>
+          <state>Louisiana</state>
+          <postal>70802</postal>
+        </cntaddr>
+        <cntvoice>225-342-4645</cntvoice>
+        <cntemail>griffinb@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>WARC would like to acknowledge Coastal Protection and Restoration Authority (CPRA) as a primary data source.</datacred>
+    <secinfo>
+      <secsys>NA</secsys>
+      <secclass>Unclassified</secclass>
+      <sechandl>NA</sechandl>
+    </secinfo>
+    <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.7.0.10450</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>QA/QC procedure insures that all attributes are correct before data is finalized.</attraccr>
+      <qattracc>
+        <attraccv>100%</attraccv>
+        <attracce>QA/QC prodedure insures that all attributes are correct before data is finalized.</attracce>
+      </qattracc>
+    </attracc>
+    <logic>As new information is provided the dataset is updated according to standard procedures. The data undergoes an editing process by a USGS Geographer and is then quality checked by a fellow USGS Geographer.</logic>
+    <complete>This data is as complete as possible and is updated frequently.</complete>
+    <lineage>
+      <procstep>
+        <procdesc>Updates are received primarily from Coastal Protection and Restoration Authority in various formats; xy and physical descriptions. The information is then digitized and stored as a ArcInfo File Geodatabase.</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>US Geological Survey, Wetland and Aquatic Research Center</cntorg>
+              <cntper>Brad Griffin</cntper>
+            </cntorgp>
+            <cntaddr>
+              <addrtype>physical</addrtype>
+              <address>150 Terrace Avenue</address>
+              <city>Baton Rouge</city>
+              <state>Louisiana</state>
+              <postal>70802</postal>
+            </cntaddr>
+            <cntvoice>225-342-4645</cntvoice>
+            <cntemail>griffinb@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>6304</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 UTM Zone 15N</mapprojn>
+          <transmer>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>-93.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>500000.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.0001</absres>
+            <ordres>0.0001</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>crms6298</enttypl>
+        <enttypd>Center point of 1km square</enttypd>
+        <enttypds>USGS/CPRA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID_1</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>VEGTYPE</attrlabl>
+        <attrdef>Vegetation type at CRMS site</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Bottomland Hardwood</edomv>
+            <edomvd>Bottomland Hardwood</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Deltaic Mixture</edomv>
+            <edomvd>Deltaic Mixture</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Deltaic Roseau Cane</edomv>
+            <edomvd>Deltaic Roseau Cane</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Fresh Bulltongue</edomv>
+            <edomvd>Fresh Bulltongue</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Fresh Maidencane</edomv>
+            <edomvd>Fresh Maidencane</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Fresh Spikerush</edomv>
+            <edomvd>Fresh Spikerush</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>mesohaline mixture</edomv>
+            <edomvd>mesohaline mixture</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>mesohaline wiregrass</edomv>
+            <edomvd>mesohaline wiregrass</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>oligohaline bulltongue</edomv>
+            <edomvd>oligohaline bulltongue</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>oligohaline mixture</edomv>
+            <edomvd>oligohaline mixture</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>oligohaline spikerush</edomv>
+            <edomvd>oligohaline spikerush</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>oligohaline wiregrass</edomv>
+            <edomvd>oligohaline wiregrass</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>open water</edomv>
+            <edomvd>open water</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>polyhaline oystergrass</edomv>
+            <edomvd>polyhaline oystergrass</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>swamp</edomv>
+            <edomvd>swamp</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BASIN</attrlabl>
+        <attrdef>CWPPRA hydrologic basin</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AT</edomv>
+            <edomvd>Atchafalaya</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>BA</edomv>
+            <edomvd>Barataria</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>BS</edomv>
+            <edomvd>Breton Sound</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>CS</edomv>
+            <edomvd>Calcasieu/Sabine</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>ME</edomv>
+            <edomvd>Mermentau</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>MR</edomv>
+            <edomvd>Mississippi River</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>PO</edomv>
+            <edomvd>Pontchartrain</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>TE</edomv>
+            <edomvd>Terrebonne</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>TV</edomv>
+            <edomvd>Teche/Vermilion</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SOIL_TYPE</attrlabl>
+        <attrdef>Soil type at CRMS site</attrdef>
+        <attrdefs>National Resources Conservation Survey (NRCS)</attrdefs>
+        <attrdomv>
+          <udom>Soil type at CRMS site</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRANSTAT_N</attrlabl>
+        <attrdef>Chabreck/Linscomb Transect/station number from aerial vegetation survey</attrdef>
+        <attrdefs>Louisiana Department of Wildlife and Fisheries (LDWF)</attrdefs>
+        <attrdomv>
+          <udom>Chabreck/Linscomb Transect/station number from aerial vegetation survey
+
+</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>X_COORD</attrlabl>
+        <attrdef>Longitude coordinate for location of crms6298 site measured in meters, UTM NAD83 zone 15.
+</attrdef>
+        <attrdefs>ESRI Defined</attrdefs>
+        <attrdomv>
+          <udom>UTM zone 15 meters easting</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Y_COORD</attrlabl>
+        <attrdef>Latitude coordinate for location of crms6298 site measured in meters, UTM NAD83 zone 15.</attrdef>
+        <attrdefs>ESRI Defined</attrdefs>
+        <attrdomv>
+          <udom>UTM zone 15 meters northing</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SITE_ID</attrlabl>
+        <attrdef>CRMS site id  - full id</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <udom>CRMS site id  - full id</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IDNUM</attrlabl>
+        <attrdef>CRMS site id  - number only</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <udom>CRMS site id  - number only</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LR_STATUS</attrlabl>
+        <attrdef>Landrights status of site</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Pending</edomv>
+            <edomvd>Pending Landrights</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Rejected</edomv>
+            <edomvd>Landrights Rejected owner does not give permission to access</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>SECURED</edomv>
+            <edomvd>Landrights SECURED - owner give permission to access</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SITE_STATUS</attrlabl>
+        <attrdef>CRMS site status</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Accepted</edomv>
+            <edomvd>CRMS site is part of the random sample design stations</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Available</edomv>
+            <edomvd>CRMS site is available for selection as a random sample design stations, but is not included at this time</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Rejected</edomv>
+            <edomvd>CRMS site is will not participate in the random sample design</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CONSTRUCTED</attrlabl>
+        <attrdef>Is Site Constructed, this parameter is out of data and no longer valid</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <udom>Field is no longer valid</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PROJECT_ID</attrlabl>
+        <attrdef>Project identification numbers for the CPRA projects that intersect with the CRMS 1km buffer.</attrdef>
+        <attrdefs>USGS/CPRA</attrdefs>
+        <attrdomv>
+          <udom>Project identification numbers for the CPRA projects that intersect with the CRMS 1km buffer.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE_ID</attrlabl>
+        <attrdef>Project identification numbers in old format for the CPRA projects that intersect with the CRMS 1km buffer.</attrdef>
+        <attrdefs>USGS/CPRA</attrdefs>
+        <attrdomv>
+          <udom>Project identification numbers in old format for the CPRA projects that intersect with the CRMS 1km buffer.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PARISH_NAM</attrlabl>
+        <attrdef>Name of Louisiana parish that the crms6298 point feature falls within.</attrdef>
+        <attrdefs>U.S. Geological Survey, Wetlands and Aquatic Research Center</attrdefs>
+        <attrdomv>
+          <udom>Name of Louisiana parish that the crms6298 point feature falls within.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TWP</attrlabl>
+        <attrdef>PLS Township</attrdef>
+        <attrdefs>U.S. Geological Survey, National Wetlands Research Center</attrdefs>
+        <attrdomv>
+          <udom>PLS Township</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TDIR</attrlabl>
+        <attrdef>PLS Township Direction</attrdef>
+        <attrdefs>U.S. Geological Survey, National Wetlands Research Center</attrdefs>
+        <attrdomv>
+          <udom>PLS Township Direction</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RNG</attrlabl>
+        <attrdef>PLS Range</attrdef>
+        <attrdefs>U.S. Geological Survey, National Wetlands Research Center</attrdefs>
+        <attrdomv>
+          <udom>PLS Range</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RDIR</attrlabl>
+        <attrdef>PLS Range Direction</attrdef>
+        <attrdefs>U.S. Geological Survey, National Wetlands Research Center</attrdefs>
+        <attrdomv>
+          <udom>PLS Range Direction</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SECTION</attrlabl>
+        <attrdef>PLS Section Number that the crms6298 point feature falls within.</attrdef>
+        <attrdefs>USGS/CPRA</attrdefs>
+        <attrdomv>
+          <udom>PLS Section Number that the crms6298 point feature falls within.ection Number</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CRMSORIG</attrlabl>
+        <attrdef>Original CRMS site from first Random Selection</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>No</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>Yes</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>REGION2050</attrlabl>
+        <attrdef>Coast 2050 Region</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>Coast 2050 region 1</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>Coast 2050 Region 2</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>Coast 2050 Region 3</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>Coast 2050 Region 4</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LA_OWNER</attrlabl>
+        <attrdef>Government/Non-Government Agency that owns the land the crms6298 is located.</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <udom>Government/Non-Government Agency which owns the land the crms6298 is located.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LA_NAME</attrlabl>
+        <attrdef>Name of the government/non-goverment agency-owned property the crms6298 point feature is located.</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <udom>Name of the government/non-goverment agency-owned property the crms6298 point feature is located.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LA_TYPE</attrlabl>
+        <attrdef>Type of the government/non-goverment agency-owned property the crms6298 point feature is located.</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <udom>Type of the government/non-goverment agency-owned property the crms6298 point feature is located.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <udom>Coastal Protection and Restoration Authority of Louisiana (CPRA)</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FIELD_OFFICE</attrlabl>
+        <attrdef>CPRA Field office responsible for site</attrdef>
+        <attrdefs>Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>New Orleans Field Office</edomv>
+            <edomvd>New Orleans Field Office</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Thibodaux Field Office</edomv>
+            <edomvd>Thibodaux Field Office</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+          <edom>
+            <edomv>Lafayette Field Office</edomv>
+            <edomvd>Lafayette Field Office</edomvd>
+            <edomvds>Coastal Protection and Restoration Authority of Louisiana (CPRA)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>US Geological Survey, Wetland and Aquatic Research Center</cntorg>
+          <cntper>Brad Griffin</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>150 Terrace Avenue</address>
+          <city>Baton Rouge</city>
+          <state>Louisiana</state>
+          <postal>70802</postal>
+        </cntaddr>
+        <cntvoice>225-342-4645</cntvoice>
+        <cntemail>griffinb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>NWRC Standard Data Liability Disclaimer (April 1997): Although these data have been processed successfully on a computer system at the National Wetlands Research Center, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is strongly recommended that these data are directly acquired from a Biological Resources Division server, and not indirectly through other sources which may have changed this data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. NWRC shall not be held liable for improper or incorrect use of the data described and/or contained herein. So, these data are provided "as is" and without any express or implied warranties, including, wirthout limitation, the implied warranties or mechantability and fitness for a particular purpose. Also, use of trade names or commercial products in this metadata is solely for the purpose of providing specific information, and does not imply recommendation or endorsement by the US Government. Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the NWRC Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and NWRC interests</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20211130</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>US Geological Survey, Wetland and Aquatic Research Center</cntorg>
+          <cntper>Brad Griffin</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>150 Terrace Avenue</address>
+          <city>Baton Rouge</city>
+          <state>Louisiana</state>
+          <postal>70802</postal>
+        </cntaddr>
+        <cntvoice>225-342-4645</cntvoice>
+        <cntemail>griffinb@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>It is strongly recommended that this data is directly acquired from the distributor described above and or from another USGS Biological Resources Division server and not indirectly through other sources which may have changed the data in some way. The distributor makes no claims as to the data's suitability for other purposes.
+
+
+</metac>
+    <metuc>Acknowledgement of the Wetland and Aquatic Research Center as a data source would be appreciated in products developed from these data, and such ackowledgement as is standard for citation and legal practices for data source is expected by users of this data. Sharing new data layers developed directly from these data would also be appreciated by WARC staff. Users should be aware that comparison with other data sets from the same area from other time periods may be inaccurate due to inconsistancies resulting from changes in mapping conventions, data collection, and computer processes over time. The distributor shall not be liable for improper or incorrect use of the data, based on the description of appropriate/inappropriate uses described in this metadata document. These data are not legal documents and are not to be used as such.</metuc>
+    <metsi>
+      <metscs>FGDC</metscs>
+      <metsc>Unclassified</metsc>
+      <metshd>NA</metshd>
+    </metsi>
+  </metainfo>
+</metadata>

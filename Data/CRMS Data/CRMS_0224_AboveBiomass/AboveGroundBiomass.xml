@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20240129</CreaDate>
+<CreaTime>14585300</CreaTime>
+<ArcGISFormat>1.0</ArcGISFormat>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<itemProps>
+<itemName Sync="TRUE">AboveGroundBiomass</itemName>
+<imsContentType Sync="TRUE" export="False">002</imsContentType>
+<itemLocation>
+<linkage Sync="FALSE">withheld</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+</itemProps>
+</DataProperties>
+<SyncDate>20240514</SyncDate>
+<SyncTime>13410500</SyncTime>
+<ModDate>20240514</ModDate>
+<ModTime>13410500</ModTime>
+<scaleRange>
+<minScale>5000000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+<ArcGISProfile>FGDC</ArcGISProfile>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows 10 Version 10.0 (Build 19045) ; Esri ArcGIS 13.1.3.41833</envirDesc>
+<dataLang>
+<languageCode value="eng" Sync="TRUE">
+</languageCode>
+<countryCode value="USA" Sync="TRUE">
+</countryCode>
+</dataLang>
+<idCitation>
+<resTitle Sync="FALSE">Aboveground Biomass</resTitle>
+<presForm>
+<PresFormCd value="011" Sync="TRUE">
+</PresFormCd>
+</presForm>
+<date>
+<createDate>2016-08-10T00:00:00</createDate>
+<pubDate>2016-08-10T00:00:00</pubDate>
+</date>
+<citRespParty>
+<editorSource>external</editorSource>
+<editorDigest>98643c5f257a8d13779da045cb75d368295d61a1</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>150 Terrace Avenue</delPoint>
+<city>Baton Rouge</city>
+<adminArea>LA</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>rocky.wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+<cntHours>M-F 8am - 5pm</cntHours>
+</rpCntInfo>
+<displayName>Rocky Wager</displayName>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="006">
+</RoleCd>
+</role>
+</citRespParty>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd value="003" Sync="TRUE">
+</SpatRepTypCd>
+</spatRpType>
+<idPurp>The intended purpose of this dataset is to provide tabular data that represent aboveground vegetation biomass for specific coastal vegetative communities.</idPurp>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Aboveground Vegetation Biomass data can be downloaded by project, CRMS (Coastwide Reference Monitoring System) site, or station number. These data are collected from areas that represent specific vegetative communities and are collected at approximately 5-year intervals. Parameters sampled include: aboveground live and dead vegetation biomass, vegetation species present, number of plant stems, total carbon, total nitrogen, and total phosphorus.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+<searchKeys>
+<keyword>CRMS</keyword>
+<keyword>Louisiana</keyword>
+<keyword>Vegetation</keyword>
+<keyword>Sampling</keyword>
+<keyword>Biomass</keyword>
+<keyword>Monitoring</keyword>
+</searchKeys>
+<idCredit>These data were created through a cooperative agreement between the Coastal Protection and Restoration Authority of Louisiana (CPRA) and the U.S. Geological Survey, Wetland and Aquatic Research Center.</idCredit>
+<resConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Information that fulfills this data request has been carefully prepared from the best available sources of data. It is intended for general informational purposes only and should not be considered authoritative for navigational, engineering, other site-specific uses, or any other uses. The Coastal Protection and Restoration Authority of Louisiana (CPRA) does not warrant or guarantee its accuracy, nor does CPRA assume any responsibility or liability for any reliance thereon.  Elevation measurements are dependent upon the choices of standards that were used, including: vertical datums, geoids, ellipsoids, and various other factors. These factors should be considered when comparing elevation data between stations.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</resConst>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<exTypeCode>1</exTypeCode>
+<westBL>-93.901486</westBL>
+<eastBL>-88.801599</eastBL>
+<southBL>28.966122 </southBL>
+<northBL>30.536226</northBL>
+</GeoBndBox>
+</geoEle>
+<tempEle>
+<TempExtent>
+<exTemp>
+<TM_Period>
+<tmBegin>2006-03-23T00:00:00</tmBegin>
+</TM_Period>
+</exTemp>
+</TempExtent>
+</tempEle>
+<exDesc>Louisiana Coastal Zone.  No end date, data updated continually.</exDesc>
+</dataExt>
+<dataChar>
+<CharSetCd value="004">
+</CharSetCd>
+</dataChar>
+<idStatus>
+<ProgCd value="004">
+</ProgCd>
+</idStatus>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="001">
+</MaintFreqCd>
+</maintFreq>
+<maintCont>
+<editorSource>external</editorSource>
+<editorDigest>98643c5f257a8d13779da045cb75d368295d61a1</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>150 Terrace Avenue</delPoint>
+<city>Baton Rouge</city>
+<adminArea>LA</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>rocky.wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+<cntHours>M-F 8am - 5pm</cntHours>
+</rpCntInfo>
+<displayName>Rocky Wager</displayName>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="007">
+</RoleCd>
+</role>
+</maintCont>
+</resMaint>
+<tpCat>
+<TopicCatCd value="002">
+</TopicCatCd>
+</tpCat>
+<tpCat>
+<TopicCatCd value="007">
+</TopicCatCd>
+</tpCat>
+<tpCat>
+<TopicCatCd value="008">
+</TopicCatCd>
+</tpCat>
+<tpCat>
+<TopicCatCd value="010">
+</TopicCatCd>
+</tpCat>
+</dataIdInfo>
+<mdLang>
+<languageCode value="eng" Sync="TRUE">
+</languageCode>
+<countryCode value="USA" Sync="TRUE">
+</countryCode>
+</mdLang>
+<distInfo>
+<distFormat>
+<formatName Sync="FALSE">Tabular CSV</formatName>
+</distFormat>
+</distInfo>
+<mdHrLv>
+<ScopeCd value="007" Sync="TRUE">
+</ScopeCd>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<eainfo>
+<detailed Name="AboveGroundBiomass">
+<enttyp>
+<enttypl Sync="FALSE">Aboveground Biomass</enttypl>
+<enttypt Sync="TRUE">Table</enttypt>
+<enttypc Sync="TRUE">22</enttypc>
+<enttypd>Tabular data that represent aboveground vegetation biomass for specific coastal vegetative communities.</enttypd>
+<enttypds>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</enttypds>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Station_ID</attrlabl>
+<attalias Sync="TRUE">Station ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">30</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Alphanumeric value assigned to a station by CPRA used for identification purposes.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdomv>
+<udom>Alphanumeric value assigned to a station by CPRA used for identification purposes (i.e., CRMS0527-E01)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sample_Date__mm_dd_yyyy_</attrlabl>
+<attalias Sync="TRUE">Sample Date (mm/dd/yyyy)</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Month, day, and year that the data were collected (mm/dd/yyyy).</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdomv>
+<udom>Month, day, and year that the data were collected (i.e. 01/29/2001)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Plot_Size__m2_</attrlabl>
+<attalias Sync="TRUE">Plot Size (m2)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Size of sample plot.</attrdef>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdomv>
+<udom>Size of sample plot (i.e., 0.25).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Total_Plot_Aboveground_Live_Biomass__g_m2_</attrlabl>
+<attalias Sync="TRUE">Total Plot Aboveground Live Biomass (g/m2)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Mass of aboveground living matter in total plot.</attrdef>
+<attrdomv>
+<udom>Mass of aboveground living matter in total plot (i.e., 905.76).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Total_Plot_Aboveground_Dead_Biomass__g_m2_</attrlabl>
+<attalias Sync="TRUE">Total Plot Aboveground Dead Biomass (g/m2)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Mass of aboveground dead matter in total plot.</attrdef>
+<attrdomv>
+<udom>Mass of aboveground dead matter in total plot (i.e., 703.04).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Scientific_Name_As_Originally_Observed</attrlabl>
+<attalias Sync="TRUE">Scientific Name As Originally Observed</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">250</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>The unique genus &amp; species name in use for the plant at the time the plant was observed.</attrdef>
+<attrdomv>
+<udom>The unique genus &amp; species name in use for the plant at the time the plant was observed (i.e., Spartina patens (Aiton) Muhl.).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Common_Name_As_Originally_Observed</attrlabl>
+<attalias Sync="TRUE">Common Name As Originally Observed</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">60</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>The non-unique, non-scientific name in use for the plant at the time the plant was observed.</attrdef>
+<attrdomv>
+<udom>The non-unique, non-scientific name in use for the plant at the time the plant was observed (i.e., Marshhay Cordgrass).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Scientific_Name_as_Currently_Recognized</attrlabl>
+<attalias Sync="TRUE">Scientific Name as Currently Recognized</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">250</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>The most current officially-recognized unique genus &amp; species name in use for the plant.</attrdef>
+<attrdomv>
+<udom>The most current officially-recognized unique genus &amp; species name in use for the plant (i.e., Spartina patens (Aiton) Muhl.).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Common_Name_as_Currently_Recognized</attrlabl>
+<attalias Sync="TRUE">Common Name as Currently Recognized</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">60</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>The most current officially-recognized, but non-unique &amp; non-scientific, name in use for the plant.</attrdef>
+<attrdomv>
+<udom>The most current officially-recognized, but non-unique &amp; non-scientific, name in use for the plant (i.e., Marshhay Cordgrass).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Live_stems__N_</attrlabl>
+<attalias Sync="TRUE">Live stems (N)</attalias>
+<attrtype Sync="TRUE">Integer</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Number of live stems in the plot for the species indicated.</attrdef>
+<attrdomv>
+<udom>Number of live stems in the plot for the species indicated (i.e., 58).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Average_Live_Stem_Height__cm_</attrlabl>
+<attalias Sync="TRUE">Average Live Stem Height (cm)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Average height of live stems in the plot for the species indicated.</attrdef>
+<attrdomv>
+<udom>Average height of live stems in the plot for the species indicated (i.e., 156.7).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Standard_Error_Live_Stem_Height__cm_</attrlabl>
+<attalias Sync="TRUE">Standard Error Live Stem Height (cm)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Standard error of live stem height in plot.</attrdef>
+<attrdomv>
+<udom>Standard error of live stem height in plot (i.e., 6).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Average_Live_Stem_Diameter__mm_</attrlabl>
+<attalias Sync="TRUE">Average Live Stem Diameter (mm)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Average diameter of live stems in the plot for the species indicated.</attrdef>
+<attrdomv>
+<udom>Average diameter of live stems in the plot for the species indicated (i.e., 3.8).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Standard_Error_Live_Stem_Diameter__mm_</attrlabl>
+<attalias Sync="TRUE">Standard Error Live Stem Diameter (mm)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Standard error of live stem diameter in plot.</attrdef>
+<attrdomv>
+<udom>Standard error of live stem diameter in plot (i.e., 0.4).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Aboveground_Live_Biomass__g_m2_</attrlabl>
+<attalias Sync="TRUE">Aboveground Live Biomass (g/m2)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Mass per area of live leaves and stems of the species indicated in the aboveground sample.</attrdef>
+<attrdomv>
+<udom>Mass per area of live leaves and stems of the species indicated in the aboveground sample (i.e., 374.6).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Total_Carbon__mg_g_</attrlabl>
+<attalias Sync="TRUE">Total Carbon (mg/g)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Sum of organic and inorganic carbon present in leaf samples of the species indicated.</attrdef>
+<attrdomv>
+<udom>Sum of organic and inorganic carbon present in leaf samples of the species indicated (i.e., 452.35).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Total_Nitrogen__mg_g_</attrlabl>
+<attalias Sync="TRUE">Total Nitrogen (mg/g)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Sum of all nitrogen compounds present in leaf samples of the species indicated.</attrdef>
+<attrdomv>
+<udom>Sum of all nitrogen compounds present in leaf samples of the species indicated (i.e., 10.05).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Total_Phosphorus__mg_kg_</attrlabl>
+<attalias Sync="TRUE">Total Phosphorus (mg/kg)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Sum of all phosphorus compounds in leaf samples of the species indicated.</attrdef>
+<attrdomv>
+<udom>Sum of all phosphorus compounds in leaf samples of the species indicated (i.e., 840).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Organization</attrlabl>
+<attalias Sync="TRUE">Organization</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">50</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Agency that collected the data.</attrdef>
+<attrdomv>
+<udom>Agency that collected the data (i.e., U.S. GEOLOGICAL SURVEY [USGS]).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Personnel</attrlabl>
+<attalias Sync="TRUE">Personnel</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">4000</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Names of personnel that collected the data.</attrdef>
+<attrdomv>
+<udom>Names of personnel that collected the data (i.e., Hamm K)</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Comments</attrlabl>
+<attalias Sync="TRUE">Comments</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">4000</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Additional comments regarding Aboveground Biomass Data.</attrdef>
+<attrdomv>
+<udom>Additional comments regarding Aboveground Biomass Data (i.e., No target species present).
+</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Latitude</attrlabl>
+<attalias Sync="TRUE">Latitude</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Latitude (Y value) recorded in decimal degrees.</attrdef>
+<attrdomv>
+<udom>Latitude (Y value) recorded in decimal degrees (i.e., 30.30369025).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Longitude</attrlabl>
+<attalias Sync="TRUE">Longitude</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrmfrq>001</attrmfrq>
+<attrdef>Longitude (X value) recorded in decimal degrees.</attrdef>
+<attrdomv>
+<udom>Longitude (X value) recorded in decimal degrees (i.e., -90.32545313).</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20240514</mdDateSt>
+<mdChar>
+<CharSetCd value="004">
+</CharSetCd>
+</mdChar>
+<mdContact>
+<editorSource>external</editorSource>
+<editorDigest>98643c5f257a8d13779da045cb75d368295d61a1</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="both">
+<delPoint>150 Terrace Avenue</delPoint>
+<city>Baton Rouge</city>
+<adminArea>LA</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>rocky.wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+<cntHours>M-F 8am - 5pm</cntHours>
+</rpCntInfo>
+<displayName>Rocky Wager</displayName>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="007">
+</RoleCd>
+</role>
+</mdContact>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="009">
+</MaintFreqCd>
+</maintFreq>
+</mdMaint>
+<mdConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Coastal Protection and Restoration Authority of Louisiana (CPRA) Disclaimer: The information in this database has been carefully prepared from the best available sources of data. It is intended for general informational purposes only and should not be considered authoritative for navigational, engineering, other site-specific uses, or any other uses. The Coastal Protection and Restoration Authority of Louisiana (CPRA) does not warrant or guarantee its accuracy, nor does CPRA assume any responsibility or liability for any reliance thereon.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</mdConst>
+<mdConst>
+<LegConsts>
+<othConsts> It is strongly recommended that this data is directly acquired from the originator described above and or from another Coastal Protection and Restoration Authority of Louisiana (CPRA) server and not indirectly through other sources which may have changed the data in some way. The originator makes no claims as to the data's suitability for other purposes.</othConsts>
+</LegConsts>
+</mdConst>
+<dqInfo>
+<dqScope>
+<scpLvl>
+<ScopeCd value="005">
+</ScopeCd>
+</scpLvl>
+</dqScope>
+</dqInfo>
+</metadata>

@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20240129</CreaDate>
+<CreaTime>14585200</CreaTime>
+<ArcGISFormat>1.0</ArcGISFormat>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<itemProps>
+<itemName Sync="TRUE">SoilProperties</itemName>
+<imsContentType Sync="TRUE" export="False">002</imsContentType>
+<itemLocation>
+<linkage Sync="FALSE">withheld</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+</itemProps>
+</DataProperties>
+<SyncDate>20240521</SyncDate>
+<SyncTime>13302700</SyncTime>
+<ModDate>20240521</ModDate>
+<ModTime>13302700</ModTime>
+<scaleRange>
+<minScale>150000000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+<ArcGISProfile>FGDC</ArcGISProfile>
+</Esri>
+<dataIdInfo>
+<envirDesc Sync="TRUE">Microsoft Windows 10 Version 10.0 (Build 19045) ; Esri ArcGIS 13.1.3.41833</envirDesc>
+<dataLang>
+<languageCode value="eng" Sync="TRUE">
+</languageCode>
+<countryCode value="USA" Sync="TRUE">
+</countryCode>
+</dataLang>
+<idCitation>
+<resTitle Sync="FALSE">SoilProperties</resTitle>
+<presForm>
+<PresFormCd value="011" Sync="TRUE">
+</PresFormCd>
+</presForm>
+<date>
+<createDate>1996-12-09T00:00:00</createDate>
+<pubDate>1996-12-09T00:00:00</pubDate>
+</date>
+<citRespParty>
+<editorSource>external</editorSource>
+<editorDigest>a1a613daa3d28155787c104354c8b8df8e1020d9</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority of Louisiana (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="physical">
+<delPoint>150 Terrace Ave.</delPoint>
+<city>Baton Rouge</city>
+<adminArea>Louisiana</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>Rocky.Wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="006">
+</RoleCd>
+</role>
+</citRespParty>
+</idCitation>
+<spatRpType>
+<SpatRepTypCd value="003" Sync="TRUE">
+</SpatRepTypCd>
+</spatRpType>
+<idPurp>The intended purpose of this dataset is to provide tabular data that represent soil property measurements collected at specific locations.</idPurp>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;As part of the Coastwide Reference Monitoring System (CRMS) program, soil characteristics are surveyed approximately every 6 to 10 years at all sites.  Parameters sampled include wet &amp;amp; dry soil pH, soil specific conductance, soil salinity, soil moisture content, bulk density, percent organic matter, and wet &amp;amp; dry volume. Separately, and as part of the Systemwide Assessment and Monitoring Program (SWAMP), soil characteristics, soil nutrients, and below ground vegetation biomass are collected at a subset of CRMS sites at approximately 5 - year intervals.  These samples are collected in association with seven target plant taxa.  Parameters sampled include soil moisture content, bulk density, percent organic matter, wet &amp;amp; dry volume, organic density, total carbon, total nitrogen, total phosphorus and carbon density.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+<searchKeys>
+<keyword>CRMS</keyword>
+<keyword>Louisiana</keyword>
+<keyword>Sampling</keyword>
+</searchKeys>
+<idCredit>These data were created through a cooperative agreement between the Coastal Protection and Restoration Authority of Louisiana (CPRA) and the U.S. Geological Survey, Wetland and Aquatic Research Center.</idCredit>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<westBL>-93.901486 </westBL>
+<eastBL>-88.801599</eastBL>
+<northBL>30.536226</northBL>
+<southBL>28.966122</southBL>
+<exTypeCode>1</exTypeCode>
+</GeoBndBox>
+</geoEle>
+<exDesc>Louisiana Coastal Zone.  No end date, data updated continually.</exDesc>
+<tempEle>
+<TempExtent>
+<exTemp>
+<TM_Period>
+<tmBegin>1996-12-09T00:00:00</tmBegin>
+</TM_Period>
+</exTemp>
+</TempExtent>
+</tempEle>
+</dataExt>
+<resConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Information that fulfills this data request has been carefully prepared from the best available sources of data. It is intended for general informational purposes only and should not be considered authoritative for navigational, engineering, other site-specific uses, or any other uses. The Coastal Protection and Restoration Authority of Louisiana (CPRA) does not warrant or guarantee its accuracy, nor does CPRA assume any responsibility or liability for any reliance thereon.  Elevation measurements are dependent upon the choices of standards that were used, including: vertical datums, geoids, ellipsoids, and various other factors. These factors should be considered when comparing elevation data between stations.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</resConst>
+<dataChar>
+<CharSetCd value="004">
+</CharSetCd>
+</dataChar>
+<idStatus>
+<ProgCd value="004">
+</ProgCd>
+</idStatus>
+<idPoC>
+<editorSource>external</editorSource>
+<editorDigest>a1a613daa3d28155787c104354c8b8df8e1020d9</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority of Louisiana (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="physical">
+<delPoint>150 Terrace Ave.</delPoint>
+<city>Baton Rouge</city>
+<adminArea>Louisiana</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>Rocky.Wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="007">
+</RoleCd>
+</role>
+</idPoC>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="001">
+</MaintFreqCd>
+</maintFreq>
+</resMaint>
+<tpCat>
+<TopicCatCd value="008">
+</TopicCatCd>
+</tpCat>
+</dataIdInfo>
+<mdLang>
+<languageCode value="eng" Sync="TRUE">
+</languageCode>
+<countryCode value="USA" Sync="TRUE">
+</countryCode>
+</mdLang>
+<distInfo>
+<distFormat>
+<formatName Sync="TRUE">File Geodatabase Table</formatName>
+</distFormat>
+</distInfo>
+<mdHrLv>
+<ScopeCd value="007" Sync="TRUE">
+</ScopeCd>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<eainfo>
+<detailed Name="SoilProperties">
+<enttyp>
+<enttypl Sync="FALSE">SoilProperties</enttypl>
+<enttypt Sync="TRUE">Table</enttypt>
+<enttypc Sync="TRUE">36</enttypc>
+<enttypd>Tabular data that represent soil property measurements for specific locations.</enttypd>
+<enttypds>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</enttypds>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">OBJECTID</attrlabl>
+<attalias Sync="TRUE">OBJECTID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Station_ID</attrlabl>
+<attalias Sync="TRUE">Station ID</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">30</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Alphanumeric value assigned to a station by CPRA used for identification purposes.</attrdef>
+<attrdomv>
+<udom>Alphanumeric value assigned to a station by CPRA used for identification purposes (i.e., TV21NA3-S04).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Group_</attrlabl>
+<attalias Sync="TRUE">Group</attalias>
+<attrtype Sync="FALSE">String</attrtype>
+<attwidth Sync="FALSE">20</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>A classification given to a group of stations that share a common characteristic.</attrdef>
+<attrdomv>
+<udom>A classification given to a group of stations that share a common characteristic.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sample_Date__mm_dd_yyyy_</attrlabl>
+<attalias Sync="TRUE">Sample Date (mm/dd/yyyy)</attalias>
+<attrtype Sync="TRUE">Date</attrtype>
+<attwidth Sync="FALSE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Month, day, and year that the data were collected.</attrdef>
+<attrdomv>
+<udom>mm/dd/yyyy (i.e., 9/22/2018).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sample_Depth__cm_</attrlabl>
+<attalias Sync="TRUE">Sample Depth (cm)</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">12</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Depth at which the core was taken.</attrdef>
+<attrdomv>
+<udom>Depth at which the core was taken (i.e., 0 to 4).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Wet_Soil_pH__pH_units_</attrlabl>
+<attalias Sync="TRUE">Wet Soil pH (pH units)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>pH of the wet soil core.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 99.99 (i.e., 5.99).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Dry_Soil_pH__pH_units_</attrlabl>
+<attalias Sync="TRUE">Dry Soil pH (pH units)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>pH of the soil core after being dried.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 99.99 (i.e., 2.87).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Soil_Specific_Conductance__uS_cm_</attrlabl>
+<attalias Sync="TRUE">Soil Specific Conductance (uS/cm)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Specific conductance in microsiemens per centimeter.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99 (i.e., 3409).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Soil_Salinity__ppt_</attrlabl>
+<attalias Sync="TRUE">Soil Salinity (ppt)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Salinity in parts per thousand.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 99.99 (i.e., 2).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Soil_Moisture_Content____</attrlabl>
+<attalias Sync="TRUE">Soil Moisture Content (%)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Soil moisture content as calculated by taking the wet sample weight minus the dry sample weight divided by the wet sample weight, all multiplied by 100.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99 (i.e., 62.16).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Bulk_Density__g_cm3_</attrlabl>
+<attalias Sync="TRUE">Bulk Density (g/cm3)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Density of sample before being dried.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99 (i.e., .41).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Organic_Matter____</attrlabl>
+<attalias Sync="TRUE">Organic Matter (%)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Percent organic matter in sample; proportion of organic matter per 100 parts.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99 (i.e., 13.46).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Wet_Volume__cm3_</attrlabl>
+<attalias Sync="TRUE">Wet Volume (cm3)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">12</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Wet volume of sediment core in cubic centimeters.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 9999999999.99 (i.e., 324.13).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Dry_Volume__cm3_</attrlabl>
+<attalias Sync="TRUE">Dry Volume (cm3)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">12</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Dry volume of sediment core in cubic centimeters.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 9999999999.99 (i.e., 103.21).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Biomass_Target_Flora_Species</attrlabl>
+<attalias Sync="TRUE">Biomass Target Flora Species</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">4000</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Flora species (Scientific Name) used in biomass measurement. Can have multiple species as values separated by colon.</attrdef>
+<attrdomv>
+<udom>Flora species (Scientific Name) used in biomass measurement. Can have multiple species as values separated by colon.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Belowground_Live_Biomass__g_m2_</attrlabl>
+<attalias Sync="TRUE">Belowground Live Biomass (g/m2)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Mass per area of live roots in belowground sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Belowground_Dead_Biomass__g_m2_</attrlabl>
+<attalias Sync="TRUE">Belowground Dead Biomass (g/m2)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Mass per area of dead roots and dead organic matter in belowground sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Organic_Density__g_cm3_</attrlabl>
+<attalias Sync="TRUE">Organic Density (g/cm3)</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Mass per volume of organic carbon in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Total_Carbon__g_kg_</attrlabl>
+<attalias Sync="TRUE">Total Carbon (g/kg)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Sum of organic and inorganic carbon in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Carbon_Density__mg_cm3_</attrlabl>
+<attalias Sync="TRUE">Carbon Density (mg/cm3)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Mass per volume of total carbon in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Total_Nitrogen__g_kg_</attrlabl>
+<attalias Sync="TRUE">Total Nitrogen (g/kg)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Sum of all nitrogen compounds in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Total_Phosphorus__mg_kg_</attrlabl>
+<attalias Sync="TRUE">Total Phosphorus (mg/kg)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Sum of all phosphorus compounds in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Sand____</attrlabl>
+<attalias Sync="TRUE">Sand (%)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Percentage of sand in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Silt____</attrlabl>
+<attalias Sync="TRUE">Silt (%)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Percentage of silt in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Clay____</attrlabl>
+<attalias Sync="TRUE">Clay (%)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Percentage of clay in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Particle_Size_Mean__phi_</attrlabl>
+<attalias Sync="TRUE">Particle Size Mean (phi)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Mean diameter of the individual grains of sediment in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Particle_Size_Median__phi_</attrlabl>
+<attalias Sync="TRUE">Particle Size Median (phi)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Median diameter of the individual grains of sediment in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Particle_Size_Standard_Deviation__phi_</attrlabl>
+<attalias Sync="TRUE">Particle Size Standard Deviation (phi)</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Standard Deviation of the individual grains of sediment in the soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Radiometric_Dating_Method_and_Units</attrlabl>
+<attalias Sync="TRUE">Radiometric Dating Method and Units</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">400</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Radioactive isotope used in soil sample dating (e.g., lead-210 [dpm/g]).</attrdef>
+<attrdomv>
+<udom>Radioactive isotope used in soil sample dating (e.g., lead-210 [dpm/g]).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Isotope_Concentration</attrlabl>
+<attalias Sync="TRUE">Isotope Concentration</attalias>
+<attrtype Sync="FALSE">Double</attrtype>
+<attwidth Sync="FALSE">8</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Decay measurement of isotope used in dating soil sample.</attrdef>
+<attrdomv>
+<udom>Numeral between 0 and 999999.99.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Organization</attrlabl>
+<attalias Sync="TRUE">Organization</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">50</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Agency that collected the data.</attrdef>
+<attrdomv>
+<udom>Agency that collected the data (i.e. COASTAL PROTECTION AND RESTORATION AUTHORITY).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Personnel</attrlabl>
+<attalias Sync="TRUE">Personnel</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">4000</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Names of personnel that collected the data.</attrdef>
+<attrdomv>
+<udom>Names of personnel that collected the data (i.e., M. Mouledous; M. Miller; M. Luent).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Comments</attrlabl>
+<attalias Sync="TRUE">Comments</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="FALSE">4000</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Additional comments regarding Soil Properties Data.</attrdef>
+<attrdomv>
+<udom>Additional comments regarding Soil Properties Data (i.e., Nourishment area 3).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Latitude</attrlabl>
+<attalias Sync="TRUE">Latitude</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Latitude recorded in decimal degrees.</attrdef>
+<attrdomv>
+<udom>Y value in decimal degrees (i.e., 29.54032923).</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Longitude</attrlabl>
+<attalias Sync="TRUE">Longitude</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="FALSE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdefs>The Coastal Protection and Restoration Authority of Louisiana (CPRA)</attrdefs>
+<attrdef>Longitude recorded in decimal degrees.</attrdef>
+<attrdomv>
+<udom>X value in decimal degrees (i.e.,  -91.73790842).</udom>
+</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<mdDateSt Sync="TRUE">20240521</mdDateSt>
+<mdChar>
+<CharSetCd value="004">
+</CharSetCd>
+</mdChar>
+<mdContact>
+<editorSource>external</editorSource>
+<editorDigest>a1a613daa3d28155787c104354c8b8df8e1020d9</editorDigest>
+<rpIndName>Rocky Wager</rpIndName>
+<rpOrgName>Coastal Protection and Restoration Authority of Louisiana (CPRA)</rpOrgName>
+<rpPosName>Coastal Resources Scientist, Sr.</rpPosName>
+<rpCntInfo>
+<cntAddress addressType="physical">
+<delPoint>150 Terrace Ave.</delPoint>
+<city>Baton Rouge</city>
+<adminArea>Louisiana</adminArea>
+<postCode>70802</postCode>
+<eMailAdd>Rocky.Wager@la.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum tddtty="">225-342-1485</voiceNum>
+</cntPhone>
+</rpCntInfo>
+<editorSave>True</editorSave>
+<displayName>Rocky Wager</displayName>
+<role>
+<RoleCd value="006">
+</RoleCd>
+</role>
+</mdContact>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="001">
+</MaintFreqCd>
+</maintFreq>
+</mdMaint>
+<mdConst>
+<LegConsts>
+<othConsts>It is strongly recommended that this data is directly acquired from the originator described above and or from another Coastal Protection and Restoration Authority of Louisiana (CPRA) server and not indirectly through other sources which may have changed the data in some way. The originator makes no claims as to the data's suitability for other purposes.</othConsts>
+</LegConsts>
+</mdConst>
+<mdConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Coastal Protection and Restoration Authority of Louisiana (CPRA) Disclaimer: The information in this database has been carefully prepared from the best available sources of data. It is intended for general informational purposes only and should not be considered authoritative for navigational, engineering, other site-specific uses, or any other uses. The Coastal Protection and Restoration Authority of Louisiana (CPRA) does not warrant or guarantee its accuracy, nor does CPRA assume any responsibility or liability for any reliance thereon.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</mdConst>
+</metadata>
