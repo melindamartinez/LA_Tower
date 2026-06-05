@@ -71,7 +71,7 @@ varImpPlot(
 
 # Filter rows where FCH4 is missing 
 df_missing_clean <- flux_var_la3 %>% filter(is.na(FCH4mean)) %>% select(-Date, -FCmean)
-
+na_days<-length(df_missing_clean$FCH4mean)
 head(df_missing_clean)
 
 # Predict missing FCH4 values
@@ -111,7 +111,8 @@ ggplot() +
     size = 4,
     label = paste0(
       "RMSE = ", round(rmse, 2),
-      "\nR² = ", round(r2, 2)
+      "\nR² = ", round(r2, 2),
+      "\nGap-Fill Days = ", na_days
     )
   ) +
   labs(
@@ -120,7 +121,7 @@ ggplot() +
     y = expression(nmol~CH[4]~m^{-2}~s^{-1}),
     color = "Legend"
   ) +
-  theme_light() # 3 x 9 landscape
+  theme_light() # 5 x 11 landscape
 
 
 ##### CO2 Gap Filling #####
@@ -162,7 +163,7 @@ cat("Validation R²:", r2, "\n")
 
 # Filter rows where FC is missing 
 df_missing_clean <- flux_var_la3 %>% filter(is.na(FCmean)) %>% select(-c(Date,FCH4_filled,FCH4mean))
-
+na_days<-length(df_missing_clean$FCmean)
 head(df_missing_clean)
 
 # Predict missing FC values
@@ -203,7 +204,8 @@ ggplot() +
     size = 4,
     label = paste0(
       "RMSE = ", round(rmse, 2),
-      "\nR² = ", round(r2, 2)
+      "\nR² = ", round(r2, 2),
+      "\nGap-Fill Days = ", na_days
     )
   ) +
   labs(
@@ -212,7 +214,7 @@ ggplot() +
     y = expression(mu*mol~CO[2]~m^{-2}~s^{-1}),
     color = "Legend"
   ) +
-  theme_light() # 3 x 9 landscape
+  theme_light() # 5 x 11 landscape
 
 summary(flux_var_la3$FC_filled)
 
