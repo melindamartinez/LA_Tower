@@ -24,9 +24,6 @@ ggplot(flux_var_la3, aes(x = Date, y = FCH4mean)) + geom_line() +
 ggplot(flux_var_la3, aes(x = Date, y = FCmean)) + geom_line() + 
   ylab(expression(mu * mol ~ CO[2] ~ m^{-2} ~ day^{-1})) + theme_light() + ggtitle("EC Tower: LA3", subtitle = "Carbon Dioxide") # 3x6
 
-
-
-
 # Step 1: Filter out complete cases for FCH4
 df_complete <- flux_var_la3 %>% filter(!is.na(FCH4mean))
 head(df_complete)
@@ -57,13 +54,20 @@ predicted_test <- predict(model, newdata = test_predictors)
 
 # Evaluate performance (e.g., RMSE)
 rmse <- sqrt(mean((predicted_test - test_actuals)^2,na.rm=TRUE))
-cat("Validation RMSE:", rmse, "\n")
-
 # R-squared
 r2 <- cor(predicted_test, test_actuals, use = "complete.obs")^2
 
 cat("Validation RMSE:", rmse, "\n")
 cat("Validation R²:", r2, "\n")
+
+# %IncMSE: Increase in prediction error when the variable is randomly permuted. Higher values = more important.
+# IncNodePurity: Total reduction in node impurity (RSS) attributable to the variable. Higher values = more important.
+
+varImpPlot(
+  model,
+  type = 1,
+  main = "Variable Importance (% Increase in MSE)"
+) # 6 x 7
 
 # Filter rows where FCH4 is missing 
 df_missing_clean <- flux_var_la3 %>% filter(is.na(FCH4mean)) %>% select(-Date, -FCmean)
@@ -213,3 +217,14 @@ ggplot() +
 summary(flux_var_la3$FC_filled)
 
 #write.csv(flux_var_la3,"Data/Daily_Gapfilled_LA3.csv", row.names = FALSE)
+
+
+# %IncMSE: Increase in prediction error when the variable is randomly permuted. Higher values = more important.
+# IncNodePurity: Total reduction in node impurity (RSS) attributable to the variable. Higher values = more important.
+
+varImpPlot(
+  model,
+  type = 1,
+  main = "Variable Importance (% Increase in MSE)"
+) # 6 x 7
+
